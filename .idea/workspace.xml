@@ -10,17 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1e173f-c731-42ea-ad1e-999aa60f2299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/coneccion/HTTPConnectionLocationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/coneccion/HTTPConnectionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/coneccion/impl/HTTPConnectionLocationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/coneccion/impl/HTTPConnectionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/controlador/Covid19Controlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/controlador/Covid19Controlador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coronavirusAPITest/src/main/resources/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/resources/static/js/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="2b1e173f-c731-42ea-ad1e-999aa60f2299" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AREP/Parcial_Corte1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../parcial2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,9 +83,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="520" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1280.138.1280.680@0.0.1536.824" timestamp="1617756713464" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1617760669264">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1617794747054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1280.138.1280.680@0.0.1536.824" timestamp="1617760669264" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1280.138.1280.680@0.0.1536.824" timestamp="1617794747054" />
   </component>
 </project>
