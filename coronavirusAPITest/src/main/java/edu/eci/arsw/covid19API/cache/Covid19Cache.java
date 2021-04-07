@@ -1,5 +1,9 @@
 package edu.eci.arsw.covid19API.cache;
 
+import edu.eci.arsw.coronavirusAPI.model.Province;
+import java.time.LocalDateTime;
+import java.util.List;
+
 /**
  * ---------------------------------------------------------------------------------------------------------------------------
  * ---------------------------------------------------------------------------------------------------------------------------
@@ -12,5 +16,7 @@ package edu.eci.arsw.covid19API.cache;
  * ---------------------------------------------------------------------------------------------------------------------------
  */
 public interface Covid19Cache {
-
+    List<Province> getCovid19ByName(String name);
+    void saveCovid19(String name, List<Province> airport);
+    LocalDateTime getTime(String name);
 }

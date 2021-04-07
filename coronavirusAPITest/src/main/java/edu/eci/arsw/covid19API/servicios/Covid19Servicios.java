@@ -1,5 +1,9 @@
 package edu.eci.arsw.covid19API.servicios;
 
+import edu.eci.arsw.coronavirusAPI.model.Country;
+import edu.eci.arsw.coronavirusAPI.model.Province;
+import java.util.List;
+
 /**
  * ---------------------------------------------------------------------------------------------------------------------------
  * ---------------------------------------------------------------------------------------------------------------------------
@@ -12,5 +16,6 @@ package edu.eci.arsw.covid19API.servicios;
  * ---------------------------------------------------------------------------------------------------------------------------
  */
 public interface Covid19Servicios {
-
+    List<Country> getAllCovid19();
+    List<Province> getCovid19ByCountry(String name);
 }

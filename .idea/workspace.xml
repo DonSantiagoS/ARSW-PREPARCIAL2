@@ -11,15 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b1e173f-c731-42ea-ad1e-999aa60f2299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/Covid19App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/cache/Covid19Cache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/cache/impl/Covid19CacheImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/controlador/Covid19Controlador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/modelo/provincia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/servicios/Covid19Servicios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/servicios/impl/Covid19ServiciosImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/modelo/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/modelo/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/servicios/impl/Covid19ServiciosLocationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/resources/static/js/apiClient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/resources/static/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coronavirusAPITest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coronavirusAPITest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/cache/Covid19Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/cache/Covid19Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/cache/impl/Covid19CacheImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/cache/impl/Covid19CacheImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/controlador/Covid19Controlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/controlador/Covid19Controlador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/modelo/provincia.java" beforeDir="false" afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/modelo/Province.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/servicios/Covid19Servicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/servicios/Covid19Servicios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/servicios/impl/Covid19ServiciosImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/coronavirusAPITest/src/main/java/edu/eci/arsw/covid19API/servicios/impl/Covid19ServiciosImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
